@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi i'm Daniel,
+Im currently a Developer at Scc , Most of my spare time outside of work is spent with my family or working on Sideprojects :). My new blog discusses how others are working in the current climate and how they have adapted with Covid-19 in the front of the worlds mind.
+
+Feel free to chat with me via Twitter
+
 <!--
 **iiCe89/iiCe89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
