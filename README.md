@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iice89&show_ico ns=true&theme=radical)
+![Daniels GitHub stats](https://github-readme-stats.vercel.app/api?username=iice89&show_ico ns=true&theme=radical)]
