@@ -1,1 +1,1 @@
-![Gif](https://github.com/iiCe89/iiCe89/blob/master/Dinosaur.gif?raw=truee)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iice89&show_ico ns=true&theme=radical)
